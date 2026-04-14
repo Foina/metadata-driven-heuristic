@@ -1,5 +1,6 @@
 # Linking Historical Persons to Archival Documents: Challenges and Approaches
 <br>
+
 ### Repository Structure
 ```text
 ├── metadata-driven heuristic.ipynb      # Main notebook implementing the proposed  metadata-driven heuristic method and the neural method
